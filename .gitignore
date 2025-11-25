@@ -1,0 +1,12 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary / OS files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
